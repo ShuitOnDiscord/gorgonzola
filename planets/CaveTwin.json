@@ -1,0 +1,13 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "CaveTwin",
+	"removeChildren": [
+		"CaveTwin_Body/Sector_CaveTwin/Sector_NorthHemisphere/Sector_NorthSurface/Sector_Lakebed/Interactables_Lakebed/Traveller_HEA_Chert"
+	],
+	"Props": {
+		"details": [
+			{"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_SouthUnderground/Sector_FossilCave/Interactables_FossilCave/Structure_DB_AnglerfishSkeleton", "position": {"x": -2.2047,"y": 157.5604,"z": 1.9377}, "rotation": {"x": 0, "y": 136.5064, "z": 0}, "scale": 0.04},
+			{"path": "CaveTwin_Body/Sector_CaveTwin/Sector_NorthHemisphere/Sector_NorthSurface/Sector_Lakebed/Interactables_Lakebed/Traveller_HEA_Chert/ConversationZone_Chert", "position": {"x": -2.3703, "y":  157.7958, "z":  2.2373}, "rotation": {"x": 346.7002,"y": 205.1066,"z": 85.566}, "scale": 2}
+		]
+	}
+}

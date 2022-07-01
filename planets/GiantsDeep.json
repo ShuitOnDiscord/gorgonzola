@@ -1,0 +1,13 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "GabbroIsland",
+	"removeChildren": [
+		"GabbroIsland_Body/Sector_GabbroIsland/Interactables_GabbroIsland/Traveller_HEA_Gabbro/Traveller_HEA_Gabbro_ANIM_IdleFlute"
+	],
+	"Props": {
+		"details": [
+			{"path": "Jellyfish_Body/Beast_GD_Jellyfish_v4", "position": {"x": -15.1637,"y": 0.0321,"z": 47.8925}, "rotation": {"x": 278.0474, "y": 23.1782, "z": 4.2919}, "scale": 0.08},
+			{"path": "GabbroIsland_Body/Sector_GabbroIsland/Interactables_GabbroIsland/Traveller_HEA_Gabbro/ConversationZone_Gabro", "position": {"x": -0.09, "y": 1.21, "z": 0}, "rotation": {"x": 0,"y": 0,"z": 0}}
+		]
+	}
+}

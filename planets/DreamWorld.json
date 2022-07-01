@@ -1,0 +1,13 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "DreamWorld",
+    "removeChildren": [
+        ""
+    ],
+    "Props": {
+        "details": [
+            {"path": "", "position": {"x": 0,"y": 0,"z": 0},"rotation": {"x": 0,"y": 0,"z": 0}, "scale": 1},
+            {"path": "", "position": {"x": 0,"y": 0,"z": 0},"rotation": {"x": 0,"y": 0,"z": 0}, "scale": 1}
+        ]
+    }
+}

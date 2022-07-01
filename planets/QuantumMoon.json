@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "QuantumMoon",
+	"removeChildren": [
+		"QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/ConversationPivot/Character_NOM_Solanum"
+	],
+	"Props": {
+		"details": [
+			{"path": "Comet_Body/Sector_CO/Geometry_CO/Frictionless_Batched/OtherComponentsGroup/Spires/Rock_Ice_MergedSpires", "position": {"x": -5.3024,"y": -70.2252,"z": 1.0246}, "rotation": {"x": 356.4135,"y": 272.5703,"z": 93.4057}, "scale": 0.008},
+			{"path": "Comet_Body/Sector_CO/Geometry_CO/Frictionless_Batched/OtherComponentsGroup/Terrain_CO_Surface_Ice", "position": {"x": -5.3024,"y": -70.2252,"z": 1.0246}, "rotation": {"x": 356.4135,"y": 272.5703,"z": 93.4057}, "scale": 0.008},
+			{"path": "Comet_Body/Sector_CO/Geometry_CO/General_Batched/OtherComponentsGroup/Terrain_CO_NotIce/Terrain_CO_Surface_SnowCap", "position": {"x": -5.3024,"y": -70.2252,"z": 1.0246}, "rotation": {"x": 356.4135,"y": 272.5703,"z": 93.4057}, "scale": 0.008},
+			{"path": "Comet_Body/Sector_CO/Geometry_CO/MeltingIce/Terrain_CO_Melting_Ice_General", "position": {"x": -5.3024,"y": -70.2252,"z": 1.0246}, "rotation": {"x": 356.4135,"y": 272.5703,"z": 93.4057}, "scale": 0.008},
+			{"path": "QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/ConversationPivot/Character_NOM_Solanum/ConversationZone", "position": {"x": -5.3024,"y": -70.2252,"z": 1.0246}, "rotation": {"x": 0,"y": 0,"z": 0}}
+		]
+	}
+}

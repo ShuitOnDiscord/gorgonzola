@@ -1,0 +1,9 @@
+{
+  "filename": "NewHorizonsConfig.dll",
+  "author": "Shuit",
+  "name": "Object People",
+  "uniqueName": "Shuit.ObjectPeople",
+  "version": "0.0.3",
+  "owmlVersion": "2.5.2",
+  "dependencies": ["xen.NewHorizons"]
+}

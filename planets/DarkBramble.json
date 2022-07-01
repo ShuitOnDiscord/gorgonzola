@@ -1,0 +1,13 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "DB_PioneerDimension",
+	"removeChildren": [
+		"DB_PioneerDimension_Body/Sector_PioneerDimension/Interactables_PioneerDimension/Pioneer_Characters/Traveller_HEA_Feldspar"
+	],
+	"Props": {
+		"details": [
+			{"path": "DB_SmallNest_Body/Sector_SmallNestDimension/Interactables_SmallNestDimension/Anglerfish_Body/Beast_Anglerfish", "position": {"x": 19.7326,"y": -15.0648,"z": -0.5306}, "rotation": {"x": 19.3802, "y": 239.9308, "z": 356.9142}, "scale": 0.02},
+			{"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Interactables_PioneerDimension/Pioneer_Characters/Traveller_HEA_Feldspar/ConversationZone_Feldspar", "position": {"x": 19.1856, "y": -15.1833, "z": -0.7937}, "rotation": {"x": 352.9339,"y": 56.407,"z": 4.9984}, "scale": 1.2}
+		]
+	}
+}

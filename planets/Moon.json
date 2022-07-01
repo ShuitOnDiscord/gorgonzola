@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Moon",
+	"removeChildren": [
+		"Moon_Body/Sector_THM/Characters_THM/Villager_HEA_Esker"
+	],
+	"Props": {
+		"details": [
+			{"path": "TimberHearth_Body/Sector_TH/Sector_ImpactCrater/Interactables_ImpactCrater/ControlledByProxy_Structures/Terrain_DB_BrambleSphere_Seed_V2", "position": {"x":-27.9341,"y": 38.461,"z": -50.9559}, "rotation": {"x":326.1646, "y": 45.9562, "z": 341.1994}, "scale": 0.2},
+			{"path": "TimberHearth_Body/Sector_TH/Sector_ImpactCrater/Interactables_ImpactCrater/BrambleSeed", "position": {"x":-27.9341,"y": 38.461,"z": -50.9559}, "rotation": {"x":326.1646, "y": 45.9562, "z": 341.1994}, "scale": 0.2},
+			{"path": "Moon_Body/Sector_THM/Characters_THM/Villager_HEA_Esker/ConversationZone_Esker", "position": {"x": 0, "y": -0.686, "z": 0.425}, "rotation": {"x": 342.9837,"y": 0,"z": 0}}
+		]
+	}
+}
